@@ -7,7 +7,7 @@ Chinese Academy of Sciences University Course Materials and Courseware Sharing P
 
 At present, I have temporarily uploaded courseware selected by myself and shared with my classmates, mainly computer, artificial intelligence and math major courses
 # 下载单个文件夹方法 Download single folder method
-复制该文件夹的网址，粘贴入DownGit中，选择download即可
+复制该文件夹的网址，粘贴入DownGit中，选择download即可 http://zhoudaxiaa.gitee.io/downgit/#/home
 
 Copy the URL of the folder, paste it into DownGit, select download
 # 后续计划 Follow-up plan

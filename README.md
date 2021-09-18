@@ -1,7 +1,3 @@
-# UCAS-Course
-中国科学院大学研一课程教材课件共享项目
-
-Chinese Academy of Sciences University Course Materials and Courseware Sharing Project
 # 内容content
 目前临时上传了自己选课和同学们分享的课件，主要是计算机，人工智能和数学专业课
 
